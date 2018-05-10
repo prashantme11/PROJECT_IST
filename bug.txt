@@ -1,0 +1,12 @@
+1) get user shows id and pwd
+2) put correct user and wrog pwd. site gives wrong msg.
+3) confirm pwd and new pwd wre different. but pwd got changed.
+4) login page, gave wrog pwd, got wrong messaage
+
+1> In cmd: node server.js
+2>server running in cmd 8086.
+get page login.html
+3>localhost:8086/login.html
+post to localhost:8086/
+
+4>login/password entered: if correct open dashboard page, Else display message username/password is wrong try again.
